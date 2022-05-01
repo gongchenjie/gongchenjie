@@ -44,5 +44,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on google summer coding
 - 💬 Ask me about forecast, ml, statistic model and funny thing
 - 📫 How to reach me:)
-- 😄 Pronouns: take pains, be perfect
-- ⚡ Fun fact: dancing
+
