@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cgon0007.visitor-badge&left_color=green&right_color=red&left_text=Hello%20Your%20Are%20Vistors:)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gongchenjie"![Chenjie's github stats")](https://github.com/gongchenjie/github-readme-stats)
+
 
 
 - 🌱 I’m currently MONASH Mbat student
