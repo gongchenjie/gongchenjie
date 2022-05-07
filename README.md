@@ -36,9 +36,6 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gongchenjie "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongchenjie)](https://github.com/Christmas/github-readme-stats)
 
 
-
-
-
 - 🌱 I’m currently MONASH Mbat student
 - 🔭 I’m currently working on forecast, ml, statistic model
 - 🌱 I’m currently learning dl
