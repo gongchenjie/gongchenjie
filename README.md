@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning dl
 - 👯 I’m looking to collaborate on google summer coding
 - 💬 Ask me about forecast, ml, statistic model and funny thing
-- 📫 How to reach me:)
+- 📫 How to reach me:) 
 
